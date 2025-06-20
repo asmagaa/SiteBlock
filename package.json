@@ -1,0 +1,14 @@
+{
+  "name": "siteblock-userscript",
+  "version": "1.0.0",
+  "description": "Block sites you want with your own description!",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build.js",
+    "dev": "npm run build && npm start"
+  },
+  "keywords": ["userscript", "blocker", "sites"],
+  "author": "asmagaa",
+  "license": "MIT",
+  "dependencies": {}
+}
