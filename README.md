@@ -1,2 +1,2 @@
-# Greasy
-A userscript.
+# SiteBlock
+SiteBlock is a userscript.
