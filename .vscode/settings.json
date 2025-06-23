@@ -1,7 +1,0 @@
-{
-  "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 1000,
-  "editor.formatOnSave": true,
-  "editor.tabSize": 2,
-  "javascript.format.enable": true
-}
